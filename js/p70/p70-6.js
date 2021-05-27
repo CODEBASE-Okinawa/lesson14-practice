@@ -1,3 +1,4 @@
-const total = 300 * 2;
-const tax = total * 0.08;
-console.log(tax);
+const coffee = 300;
+const espress = 100;
+console.log("コーヒー:" + coffee + "円");
+console.log("合計:" + (coffee + (espress * 2)) + "円");

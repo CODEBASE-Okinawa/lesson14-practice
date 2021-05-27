@@ -1,2 +1,2 @@
 const total = 300 * 2;
-console.log(t);
+console.log(total);
