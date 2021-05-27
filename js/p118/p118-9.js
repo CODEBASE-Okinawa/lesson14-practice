@@ -1,4 +1,4 @@
 const drinks = ["ティーラテ", "カフェラテ", "抹茶ラテ"];
-drinks.forEach(value => {
-  console.log(value + "お願いします");
-})
+for(drink of drinks) {
+  console.log(drink + "お願いします");
+}
